@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Muhammad Saad 👋
 
-<!--
-**Hafiz-Muhammad-Saad32/Hafiz-Muhammad-Saad32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS Student | 💻 Web Development Learner | 🚀 Building by Doing
 
-Here are some ideas to get you started:
+- 🌐 Learning Frontend Development (HTML, CSS, JS, React, Vite)
+- 🎨 Exploring Tailwind CSS & Responsive Design
+- ⚡ Love solving problems and creating projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Building React projects
+- Improving UI/UX design with Tailwind
+- Preparing for Full-Stack journey
+
+## 📫 Connect with Me
+[LinkedIn](www.linkedin.com/in/muhammad-saad-291ba6334) | [GitHub](https://github.com/Hafiz-Muhammad-Saad32)
+
