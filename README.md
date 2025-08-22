@@ -1,6 +1,4 @@
-
-
-### Hi, I'm Muhammad Saad 👋
+# Hi, I'm Muhammad Saad 👋
 
 ## 💫 About Me
 
