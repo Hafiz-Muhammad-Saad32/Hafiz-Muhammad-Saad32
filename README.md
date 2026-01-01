@@ -1,6 +1,9 @@
  <div align="center">
     <h1> Hi there, I'm Muhammad Saad👋<a href="https://ameenhamza.github.io/Portfolio-theme/"></h1>
   </div>
+  <p align="center">
+<a href="https://github.com/Hafiz-Muhammad-Saad"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Web+Developer;Back+End+Learner;&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+
 
 ## 💫 About Me
 
