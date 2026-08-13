@@ -7,15 +7,14 @@
 
 ## 💫 About Me
 
-🎓 BSCS Student | 💻 Aspiring Software Engineer | 🚀 Passionate about Web Development & Problem Solving  
-| ⚡ Love solving problems and creating projects
+ 💻 MERN Stack Developer | 🚀 I’m focused on turning ideas into scalable, high-performance web applications |⚡Love solving problems and Building Digital Solution for Business
 
 ---
 
 ## 📌 Current Focus
-- 🔭 Building React projects
-- 🌱 Improving UI/UX design with Tailwind
-- 🎯 Goal: To become a **Full-Stack Developer** 
+- 🔭 Building Web Solution 
+- 🌱 Improving  Systems's Scalability & High-Performance
+- 🎯 Goal: To become a Software Engineer
 
 ---
 
