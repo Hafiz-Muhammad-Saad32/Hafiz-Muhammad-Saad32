@@ -2,7 +2,7 @@
     <h1> Hi there, I'm Muhammad Saad👋<a href="https://ameenhamza.github.io/Portfolio-theme/"></h1>
   </div>
   <p align="center">
-<a href="https://github.com/Hafiz-Muhammad-Saad"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Building+High+Performance,+Scalable+Backend+Systems;&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/Hafiz-Muhammad-Saad"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Building+High+Performance,+Scalable+Backend+Systems;&font=Roboto&size=26&duration=3500&pause=500&center=true&width=700&height=50&color=eab676"></a>
 
 
 ## 💫 About Me
